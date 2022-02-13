@@ -1,5 +1,5 @@
 
-HOw to cloning project?
+How to cloning project?
 1. Run git clone <my-cool-project>
 2. Run composer install.
 3. Run cp .env.example .env.
