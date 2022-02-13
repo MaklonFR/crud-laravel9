@@ -24,7 +24,8 @@ Screenshot Project:
 
     4. Delete Action
     
-    ![delete](https://user-images.githubusercontent.com/88584119/153749120-788c3a81-07f6-48a9-ab2d-75af94480be5.png)
+   ![delete](https://user-images.githubusercontent.com/88584119/153749245-b77a2b4f-25c5-4669-afdb-657e25bae1b9.png)
+
 
     
     By: Programming Maklon
