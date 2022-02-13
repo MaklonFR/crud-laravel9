@@ -29,8 +29,10 @@ Screenshot Project:
 
     
     By: Programming Maklon
-    Url Youtube: https://www.youtube.com/watch?v=vH5XiS-Du3o
+    Url Youtube:
+    https://www.youtube.com/watch?v=vH5XiS-Du3o
     
-    Referensi: https://larainfo.com/blogs/laravel-9-crud-with-tailwind-css-3-example
+    Referensi:
+    https://larainfo.com/blogs/laravel-9-crud-with-tailwind-css-3-example
     
     
